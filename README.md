@@ -272,6 +272,51 @@ b. Demuestre que la reciprocidad se aplica en el circuito dado.
 
 
 
+CÁPITULO 10 
+
+1. Para la Figura 10-31, determine la carga en el capacitor, su capacitancia o el voltaje en él, según se aplique a cada uno de los siguientes incisos:
+
+![WhatsApp Image 2021-07-20 at 21 48 49](https://user-images.githubusercontent.com/84783236/126422939-c0b72cd8-af5b-40f3-bc18-d6783a926d0b.jpeg)
+![WhatsApp Image 2021-07-20 at 21 49 17](https://user-images.githubusercontent.com/84783236/126422961-8f9bfe10-d896-4701-b63c-d88e2513338c.jpeg)
+
+3.  La carga en un capacitor de 50μF es de 10 × 10^(-3) C. ¿Cuál es la diferencia de potencial entre sus terminales?
+
+![WhatsApp Image 2021-07-20 at 21 51 25](https://user-images.githubusercontent.com/84783236/126423087-9d285f75-bb63-46ff-801b-94ab75c3e563.jpeg)
+
+5.  Se carga un capacitor 5μF con 150 V. Su compañero de laboratorio momentáneamente pone un resistor a traves de sus terminales y drena suficiente carga para que el voltaje caiga a 84 V. ¿Cuál es la carga final del capacitor?
+
+![WhatsApp Image 2021-07-20 at 21 51 49](https://user-images.githubusercontent.com/84783236/126423153-985a53a9-5d3a-46d7-88c8-523ff853574c.jpeg)
+
+
+7. Un capacitor de placas paralelas con un dieléctrico de mica tiene las siguientes dimensiones 1 cm x 1.5 cm con una separación de 0.1 mm. ¿Cuál es su capacitancia?
+
+![WhatsApp Image 2021-07-20 at 21 54 27](https://user-images.githubusercontent.com/84783236/126423362-a76ffec4-6030-474a-95d3-b4b52579d1e7.jpeg)
+
+9.  La capacitancia de un capacitor lleno de aceite es de 200 pF. Si la separación entre las placas es de 0.1 mm. ¿cuál es el área de las placas?
+
+![WhatsApp Image 2021-07-20 at 21 54 46](https://user-images.githubusercontent.com/84783236/126423408-571356a4-b615-4a3a-b440-dca84e9d760a.jpeg)
+
+11. Un capacitor con un dieléctrico de Teflón tiene una capacitancia de 33 _F. Un segundo capacitor con dimensiones físicas idénticas, pero con un dieléctrico de mylar lleva una carga de  55×10^(-4)C. ¿Cuál es su voltaje?
+
+![WhatsApp Image 2021-07-20 at 21 56 38](https://user-images.githubusercontent.com/84783236/126423565-70387759-95b2-41e7-8226-6a4e8d547ca4.jpeg)
+
+13.  a. ¿Cuál es la intensidad del campo eléctrico E a una distancia de 1 cm de una carga de 100 mC en aceite?
+   b. ¿Cuál es E al doble de la distancia?
+   
+   ![WhatsApp Image 2021-07-20 at 21 58 21](https://user-images.githubusercontent.com/84783236/126423743-5442748d-35bc-4ffc-b745-f661e63567c2.jpeg)
+
+15.  Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura?
+
+![WhatsApp Image 2021-07-20 at 21 58 41](https://user-images.githubusercontent.com/84783236/126423788-4aba978b-9bfc-40c5-896c-ccb1759322fa.jpeg)
+
+17.  Un capacitor con un dieléctrico de mica sufre una ruptura cuando se le aplican E volts. La mica se remueve y el espacio entre las placas se duplica. Si la ruptura ahora ocurre a 500 V, ¿cuál es el valor de E?
+
+![WhatsApp Image 2021-07-20 at 21 58 55](https://user-images.githubusercontent.com/84783236/126423852-e0494e17-f3b6-45d4-980b-4e239038d1d0.jpeg)
+
+
+23.  ¿Cuál es la capacitancia equivalente de 10, 12, 22 y 33 µF conectados en paralelo?
+
+![WhatsApp Image 2021-07-20 at 22 01 20](https://user-images.githubusercontent.com/84783236/126423953-c117cdf4-184e-4d77-8e9b-99b365560f41.jpeg)
 
 
           
