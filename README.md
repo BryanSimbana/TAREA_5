@@ -14,21 +14,13 @@ integrantes:
 
 1.1.Objetivo general.
 
-Analizar y comprender el cpitulo 9 - 10 del libro de "Analisis de circuitos electricos" y realizar los ejercicios que se plantea en cada capitulo
-
-Analizar los teoremas de redes existentes para circuitos resistivos complejos
+Analizar y comprender el cpitulo 7 - 8 del libro de "Analisis de circuitos electricos" y realizar los ejercicios que se plantea en cada capitulo
 
 1.2. Objeticos específicos.
 
--Aplicar los aprendizajes resividos del docenten en  ejercicios del capitulo 9 y 10.
-
--Aplicar el teorema de Superposicion para determinar de forma independiente las fuentes para facilitarnos los calculos.
-
--Basar  el teorema de Thevenin y Norton , determinar sus circuitos equivalentesviendolos de una maneramas simplificada.
-
--Analizar que factores pueden afectan a la capacitancia y comnocer  su comportamiento habitual .
-
-
+-Aplicar los aprendizajes resividos del docenten en  ejercicios del capitulo 7 y 8.
+-Entender como funciona los diferentes tipos de analisis de circuitosy asi poderlos usar de manera mas facil.
+-Revisar el funcionamiento de ls fuentes de voltaje y corriente  saber como transformarlas para poder facilitar el analisis
 
 2.MARCO TEÓRICO (RESUMEN)
 
@@ -330,15 +322,76 @@ CÁPITULO 10
 
 ![WhatsApp Image 2021-07-20 at 22 01 20](https://user-images.githubusercontent.com/84783236/126423953-c117cdf4-184e-4d77-8e9b-99b365560f41.jpeg)
 
+25. Repita el problema 23 si los capacitores están conectados en serie. 
 
-          
+![25](https://user-images.githubusercontent.com/81887698/126427666-2e4ac915-2e39-4f17-8ae5-dc2d555e54db.PNG)
+
+
+27. Determine CT para cada uno de los circuitos de la figura 10-33.
+ 
+ a)![27-a](https://user-images.githubusercontent.com/81887698/126424998-95554c2b-f47f-4b41-bb61-f50058a0e307.PNG)
+ 
+ b)![27-b](https://user-images.githubusercontent.com/81887698/126425022-8903f710-0f97-4374-87de-9636c5fd3d4c.PNG)
+ 
+ c)![27-c](https://user-images.githubusercontent.com/81887698/126425034-f0cbebc3-6fab-41d5-abb4-457ab2a6672c.PNG)
+ 
+ d)![27-d](https://user-images.githubusercontent.com/81887698/126425045-1ece10bd-bef0-45e1-82dc-2e0788609ce7.PNG)
+
+29. Un capacitor de 30 µF se conecta en paralelo con un capacitor de 60 µF, y otro de 10 µF se conecta en serie con la combinación en paralelo. ¿Cuál es el valor de CT?
+![29](https://user-images.githubusercontent.com/81887698/126425145-39e39893-faf5-4e29-9a4c-07fc623e26c7.PNG)
+
+31. Para la figura 10-36, determinar, determinar C3 y C4.
+
+![31](https://user-images.githubusercontent.com/81887698/126425282-38b9fff5-12de-4fc8-8cfe-0dc2f1c575d1.PNG)
+
+33. Se tienen capacitores de 22, 47, 2.2 y 10 µF. ¿Cuál es la capacitancia equivalente más grande que se puede obtener conectándolos de la manera que usted prefiera?, ¿y la más pequeña?
+
+![33](https://user-images.githubusercontent.com/81887698/126425318-de4d5dea-5a2c-40b3-a37b-a74b30e6efad.PNG)
+
+35. Considere capacitores de 1, 1.5 y 10 µF. Si CT = 10.6 µF, ¿cómo están conectados los capacitores? 
+
+![37](https://user-images.githubusercontent.com/81887698/126425554-17166105-5ca7-4064-9df3-e435dbacdd84.PNG)
+
+37. Para las figuras 10-33 (c) y (d), encuentre el voltaje en cada capacitor si se aplica 100 V en las terminales a-b.
+
+ a)![37-1](https://user-images.githubusercontent.com/81887698/126425648-ea48f63e-c19b-4e86-879b-87a890047b73.PNG)
+
+ b)![37-2](https://user-images.githubusercontent.com/81887698/126425832-cc407536-a80f-46bd-9083-83c12f156536.PNG)
+
+39. Repita el problema 38 para el circuito de la figura 10-39.
+
+![39](https://user-images.githubusercontent.com/81887698/126425898-82c9907a-02e8-4a4e-addf-b0be825e7b66.PNG)
+
+41. Para la figura 10-41, determine CX.
+
+![41](https://user-images.githubusercontent.com/81887698/126425976-90769a49-5233-4f93-afe2-51688db8919f.PNG)
+
+43. El voltaje en el capacitor de la figura 10-42(a) se muestra en (b). Dibuje la corriente IC a escala de valores numéricos. 
+
+![43](https://user-images.githubusercontent.com/81887698/126427068-5a00b38b-9c06-48b6-ab09-1c98621c8d82.PNG)
+
+45. Si el voltaje en un capacitor de 4.7 µF es vc=100e^(-0.05t) V, ¿qué valor tiene IC?
+
+![45](https://user-images.githubusercontent.com/81887698/126427171-3c3a4476-49de-4843-9721-0ec87001f21a.PNG)
+
+47. Para la figura 10-42 determine la energía del capacitor en cada uno de los siguientes tiempos: t = 0, 1, 4, 5, 7 y 9 ms.
+
+![49](https://user-images.githubusercontent.com/81887698/126427286-655325c5-cd73-4ce6-8fa9-4d17368551eb.PNG)
+
+49. Para cada caso mostrado en la figura 10-44, ¿cuál es la falla más probable?  
+
+![49-1](https://user-images.githubusercontent.com/81887698/126427472-6fd2bc65-72cf-4e51-b48e-15f44496c9f5.PNG)
+![49-2](https://user-images.githubusercontent.com/81887698/126427474-0efc2202-5e91-45a5-ac56-cefbaa2f0453.PNG)
+![49-3](https://user-images.githubusercontent.com/81887698/126427493-e2ff7765-258c-41b7-8e0d-d173df3464ff.PNG)
+
+
+
 4.VIDEO
 
 5.CONCLUSIONES
--El teorema de superposicion nos facilita los caculos pero extiende eltrabajo ya que tenemos que realizar mas procedimiento pero es degran ayuda ya que podemos analizar de manera individual cada fuente sea de voltaje o corriente.
-
--aplicando el teorema de Thevenin reducimos cualquier circuito complejo a un circuito con una fuente de voltaje en serie con un resistor, para el circuito de Norton se reduce a una fuente de corriente en paralelo con un resistor.
-
+-El analisis los circuitos mediante los métodos estudiados facilitó  la solución de los mismos.
+-Una fuente de corriente mantiene la misma corriente en la rama del circuito indistintamente de los componentes que allí se encuentren asi es siempre que los componentes esten en serie. 
+-La transformacion de fuentes ayudo mucho hacer los calculos mucha mas comodidad
 
 6.BIBLIOGRAFÍA
 Allan Robbins, Wilhelm Miller, H. C. (2008). Análisis de circuitos (Cuarta edición, Vol. 4) [Libro electrónico]. Compañia de Cengage Learning, Inc. https://drive.google.com/file/d/1VyjcBBbI2HnIPe8hEFFhniiOtW52Dvyo/viewcolaboradores
