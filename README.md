@@ -14,13 +14,21 @@ integrantes:
 
 1.1.Objetivo general.
 
-Analizar y comprender el cpitulo 7 - 8 del libro de "Analisis de circuitos electricos" y realizar los ejercicios que se plantea en cada capitulo
+Analizar y comprender el cpitulo 9 - 10 del libro de "Analisis de circuitos electricos" y realizar los ejercicios que se plantea en cada capitulo
+
+Analizar los teoremas de redes existentes para circuitos resistivos complejos
 
 1.2. Objeticos específicos.
 
--Aplicar los aprendizajes resividos del docenten en  ejercicios del capitulo 7 y 8.
--Entender como funciona los diferentes tipos de analisis de circuitosy asi poderlos usar de manera mas facil.
--Revisar el funcionamiento de ls fuentes de voltaje y corriente  saber como transformarlas para poder facilitar el analisis
+-Aplicar los aprendizajes resividos del docenten en  ejercicios del capitulo 9 y 10.
+
+-Aplicar el teorema de Superposicion para determinar de forma independiente las fuentes para facilitarnos los calculos.
+
+-Basar  el teorema de Thevenin y Norton , determinar sus circuitos equivalentesviendolos de una maneramas simplificada.
+
+-Analizar que factores pueden afectan a la capacitancia y comnocer  su comportamiento habitual .
+
+
 
 2.MARCO TEÓRICO (RESUMEN)
 
@@ -327,9 +335,10 @@ CÁPITULO 10
 4.VIDEO
 
 5.CONCLUSIONES
--El analisis los circuitos mediante los métodos estudiados facilitó  la solución de los mismos.
--Una fuente de corriente mantiene la misma corriente en la rama del circuito indistintamente de los componentes que allí se encuentren asi es siempre que los componentes esten en serie. 
--La transformacion de fuentes ayudo mucho hacer los calculos mucha mas comodidad
+-El teorema de superposicion nos facilita los caculos pero extiende eltrabajo ya que tenemos que realizar mas procedimiento pero es degran ayuda ya que podemos analizar de manera individual cada fuente sea de voltaje o corriente.
+
+-aplicando el teorema de Thevenin reducimos cualquier circuito complejo a un circuito con una fuente de voltaje en serie con un resistor, para el circuito de Norton se reduce a una fuente de corriente en paralelo con un resistor.
+
 
 6.BIBLIOGRAFÍA
 Allan Robbins, Wilhelm Miller, H. C. (2008). Análisis de circuitos (Cuarta edición, Vol. 4) [Libro electrónico]. Compañia de Cengage Learning, Inc. https://drive.google.com/file/d/1VyjcBBbI2HnIPe8hEFFhniiOtW52Dvyo/viewcolaboradores
