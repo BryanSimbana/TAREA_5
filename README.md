@@ -24,6 +24,13 @@ Analizar y comprender el cpitulo 7 - 8 del libro de "Analisis de circuitos elect
 
 2.MARCO TEÓRICO (RESUMEN)
 
+-Capitulo 10.
+![marco 1](https://user-images.githubusercontent.com/81887698/126429884-d29f329c-967d-4909-97e9-003ffda8a3ad.PNG)![Marco 2](https://user-images.githubusercontent.com/81887698/126429889-04c501f7-9f2a-4e69-beca-62eb99ffea99.PNG)
+
+![marco 3](https://user-images.githubusercontent.com/81887698/126429899-50a41127-0063-4a06-8803-0623650e5ce9.PNG)
+![marco 4](https://user-images.githubusercontent.com/81887698/126429901-951ee369-39e0-4468-95fe-b94e8cf6757e.PNG)
+![marco 5](https://user-images.githubusercontent.com/81887698/126429904-24d0f323-dee3-405a-b1b6-b82d28f3115c.PNG)
+
 
 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
