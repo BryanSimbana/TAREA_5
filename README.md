@@ -24,76 +24,10 @@ Analizar y comprender el cpitulo 7 - 8 del libro de "Analisis de circuitos elect
 
 2.MARCO TEÓRICO (RESUMEN)
 
-![11](https://user-images.githubusercontent.com/85522189/126424213-ae3d6c6e-80d7-49ed-8486-606977de7b42.PNG)
-![2](https://user-images.githubusercontent.com/85522189/126424229-909af9da-2486-4730-9b1c-63703b2005ec.PNG)
 
 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-CAPITULO 9 
-
-CAPITULO 9 
-
-1. Dado el circuito de la figura 9-75, use la superposición para calcular la corriente a través de cada uno de los resistores.
-
-![3](https://user-images.githubusercontent.com/85522189/126421236-73f9be8c-c6ab-49d4-8e18-97290f24c888.PNG)
-
-3. Use la superposición para encontrar el voltaje Va y la corriente I en el circuito de la figura 9-77.
-
-![4](https://user-images.githubusercontent.com/85522189/126421518-38a7e5b3-501d-4b1e-a3db-aebfe20e3383.PNG)
-
-![5](https://user-images.githubusercontent.com/85522189/126421527-0ffcfac2-2ac4-498e-957d-072685a880c6.PNG)
-
-5. En el circuito de la figura 9-79, ¿cuál debe ser el valor de la fuente de voltaje desconocida para asegurar que la corriente a través de la carga sea IL= 5 mA, tal y como se muestra? Verifique los resultados mediante la superposición.
-
-![1](https://user-images.githubusercontent.com/85522189/126422289-100a6cd2-20a8-404e-a732-fdf546a4dd1f.PNG)
-
-7. Encuentre el equivalente de Thévenin externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar Vab.
-
-![2](https://user-images.githubusercontent.com/85522189/126422377-9145da7d-4709-4bb4-a2fd-744b5c9c6926.PNG)
-
-9. Repita el problema 7 para el circuito de la figura 9-83.
-
-![3](https://user-images.githubusercontent.com/85522189/126422412-910306cd-502f-45f6-b9c7-b338f24fedbd.PNG)
-
-11. Vea el circuito de la figura 9-85:
-a Encuentre el circuito equivalente de Thévenin externo a RL.
-b. Use el circuito equivalente para determinar Vab cuando RL =20 Ω y cuando RL = 50Ω.
-
-![4](https://user-images.githubusercontent.com/85522189/126422445-a8002b87-7287-4bb9-8f93-91a941b25bd4.PNG)
-
-13. Vea el circuito de la figura 9-87:
-a. Encuentre el circuito equivalente de Thévenin externo a las terminales indicadas.
-b. Use el circuito equivalente de Thévenin para determinar la corriente a través de las ramas indicadas.
-
-![5](https://user-images.githubusercontent.com/85522189/126422477-dbe7f1aa-8f3a-4688-9243-85030c67272f.PNG)
-
-15. Vea el circuito de la figura 9-89:
-a. Encuentre el circuito equivalente de Thévenin externo a las terminales que se indican.
-b. Use el circuito equivalente de Thévenin para determinar la corriente a través de las ramas que se indican.
-
-![6](https://user-images.githubusercontent.com/85522189/126422530-9b501774-f2f3-4886-89db-44f1ce5df510.PNG)
-
-17. Vea el circuito de la figura 9-91:
-a. Encuentre el circuito equivalente de Thévenin externo a RL.
-b. Use el circuito equivalente de Thévenin para encontrar la corriente I cuando RL= 0, 10 kΩ y 50 kΩ.
-
-![7](https://user-images.githubusercontent.com/85522189/126422615-bd25a833-ce80-43de-8a0a-1ecaa86b8cbb.PNG)
-
-19. Repita el problema 17 para el circuito de la figura 9-93.
-
-![8](https://user-images.githubusercontent.com/85522189/126422669-79134ae7-84b1-422a-8423-77e351f3d85e.PNG)
-
-21. Encuentre el circuito equivalente de Thévenin de la red externa a las ramas que se indican, como se muestra en la figura 9-95.
-
-![9](https://user-images.githubusercontent.com/85522189/126422730-3b2f2599-d32d-425f-ae12-07d008c1db6a.PNG)
-
-23. Repita el problema 22 para el circuito de la figura 9-97
-
-![10](https://user-images.githubusercontent.com/85522189/126423526-1a015a02-794e-4396-8bc9-aa2d1bbde0ad.PNG)
-
-25. Encuentre el circuito equivalente de Norton externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar IL para el circuito.
-
-![11](https://user-images.githubusercontent.com/85522189/126423582-b627db21-be29-4022-a3c7-b2df31a2742d.PNG)
+CAPITULO 9 del 27-55
 
 27. Repita el problema 25 para el circuito de la figura 9-83.
 
@@ -338,6 +272,55 @@ b. Demuestre que la reciprocidad se aplica en el circuito dado.
 
 
 
+CÁPITULO 10 
+
+1. Para la Figura 10-31, determine la carga en el capacitor, su capacitancia o el voltaje en él, según se aplique a cada uno de los siguientes incisos:
+
+![WhatsApp Image 2021-07-20 at 21 48 49](https://user-images.githubusercontent.com/84783236/126422939-c0b72cd8-af5b-40f3-bc18-d6783a926d0b.jpeg)
+![WhatsApp Image 2021-07-20 at 21 49 17](https://user-images.githubusercontent.com/84783236/126422961-8f9bfe10-d896-4701-b63c-d88e2513338c.jpeg)
+
+3.  La carga en un capacitor de 50μF es de 10 × 10^(-3) C. ¿Cuál es la diferencia de potencial entre sus terminales?
+
+![WhatsApp Image 2021-07-20 at 21 51 25](https://user-images.githubusercontent.com/84783236/126423087-9d285f75-bb63-46ff-801b-94ab75c3e563.jpeg)
+
+5.  Se carga un capacitor 5μF con 150 V. Su compañero de laboratorio momentáneamente pone un resistor a traves de sus terminales y drena suficiente carga para que el voltaje caiga a 84 V. ¿Cuál es la carga final del capacitor?
+
+![WhatsApp Image 2021-07-20 at 21 51 49](https://user-images.githubusercontent.com/84783236/126423153-985a53a9-5d3a-46d7-88c8-523ff853574c.jpeg)
+
+
+7. Un capacitor de placas paralelas con un dieléctrico de mica tiene las siguientes dimensiones 1 cm x 1.5 cm con una separación de 0.1 mm. ¿Cuál es su capacitancia?
+
+![WhatsApp Image 2021-07-20 at 21 54 27](https://user-images.githubusercontent.com/84783236/126423362-a76ffec4-6030-474a-95d3-b4b52579d1e7.jpeg)
+
+9.  La capacitancia de un capacitor lleno de aceite es de 200 pF. Si la separación entre las placas es de 0.1 mm. ¿cuál es el área de las placas?
+
+![WhatsApp Image 2021-07-20 at 21 54 46](https://user-images.githubusercontent.com/84783236/126423408-571356a4-b615-4a3a-b440-dca84e9d760a.jpeg)
+
+11. Un capacitor con un dieléctrico de Teflón tiene una capacitancia de 33 _F. Un segundo capacitor con dimensiones físicas idénticas, pero con un dieléctrico de mylar lleva una carga de  55×10^(-4)C. ¿Cuál es su voltaje?
+
+![WhatsApp Image 2021-07-20 at 21 56 38](https://user-images.githubusercontent.com/84783236/126423565-70387759-95b2-41e7-8226-6a4e8d547ca4.jpeg)
+
+13.  a. ¿Cuál es la intensidad del campo eléctrico E a una distancia de 1 cm de una carga de 100 mC en aceite?
+   b. ¿Cuál es E al doble de la distancia?
+   
+   ![WhatsApp Image 2021-07-20 at 21 58 21](https://user-images.githubusercontent.com/84783236/126423743-5442748d-35bc-4ffc-b745-f661e63567c2.jpeg)
+
+15.  Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura?
+
+![WhatsApp Image 2021-07-20 at 21 58 41](https://user-images.githubusercontent.com/84783236/126423788-4aba978b-9bfc-40c5-896c-ccb1759322fa.jpeg)
+
+17.  Un capacitor con un dieléctrico de mica sufre una ruptura cuando se le aplican E volts. La mica se remueve y el espacio entre las placas se duplica. Si la ruptura ahora ocurre a 500 V, ¿cuál es el valor de E?
+
+![WhatsApp Image 2021-07-20 at 21 58 55](https://user-images.githubusercontent.com/84783236/126423852-e0494e17-f3b6-45d4-980b-4e239038d1d0.jpeg)
+
+19. La ﬁgura 10-32 muestra varios espaciamientos, entre ellos se incluye un capacitor de placas paralelas, un conjunto de pequeños puntos esféricos y un par de puntos aﬁlados. Todos los espaciamientos miden lo mismo. Conforme el voltaje se incrementa, ¿qué espaciamiento sufre ruptura en cada caso?
+
+![Ejer-19](https://user-images.githubusercontent.com/84783236/126424308-42caabf1-8115-4508-b052-90f15393935f.jpg)
+
+
+23.  ¿Cuál es la capacitancia equivalente de 10, 12, 22 y 33 µF conectados en paralelo?
+
+![WhatsApp Image 2021-07-20 at 22 01 20](https://user-images.githubusercontent.com/84783236/126423953-c117cdf4-184e-4d77-8e9b-99b365560f41.jpeg)
 
 
           
