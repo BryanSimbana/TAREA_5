@@ -26,6 +26,12 @@ Analizar y comprender el capitulo  9-10 del libro de "Analisis de circuitos elec
 
 2.MARCO TEÓRICO (RESUMEN)
 
+capitulo 9
+
+![11](https://user-images.githubusercontent.com/85522189/127235233-8036fd96-c63e-4b6d-8ce9-e17a2f33bb5d.PNG)
+
+![1](https://user-images.githubusercontent.com/85522189/127235092-dafc397c-ccef-432d-8392-2b4cd97289dc.PNG)
+
 -Capitulo 10.
 
 ![marco 1](https://user-images.githubusercontent.com/81887698/126429884-d29f329c-967d-4909-97e9-003ffda8a3ad.PNG)![Marco 2](https://user-images.githubusercontent.com/81887698/126429889-04c501f7-9f2a-4e69-beca-62eb99ffea99.PNG)
@@ -45,6 +51,9 @@ CAPITULO 9 del 27-55
 figura 9-83. Use el circuito equivalente para encontrar IL para el circuito.
 
 ![image](https://user-images.githubusercontent.com/85320165/126403214-667057b6-206b-4e1a-a9db-755f2cad38cb.png)
+
+![Uploading 11.PNG…]()
+
 
 Resistencia de Norton:
 
